@@ -1,0 +1,3510 @@
+[
+    {
+        "budget": {
+            "Case": 10,
+            "CaseFan": 5,
+            "Cpu": 20,
+            "CpuCooler": 6,
+            "ExternalHardDrive": 5,
+            "InternalStorage": 18,
+            "Memory": 14,
+            "Motherboard": 8,
+            "OpticalDrive": 4,
+            "PowerSupply": 8,
+            "ThermalPaste": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "4000 GB",
+                    "color": null,
+                    "interface": "USB 3.0",
+                    "name": "Seagate Expansion",
+                    "price_/_gb": "$0.024",
+                    "price_usd": 94.99,
+                    "rating": 4,
+                    "rating_count": 5,
+                    "type": "Desktop"
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "1 TB",
+                    "form_factor": "2.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital Blue",
+                    "price_/_gb": "$0.107",
+                    "price_usd": 106.99,
+                    "rating": 4,
+                    "rating_count": 75,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Brown / Black",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "MSI Z390-A PRO",
+                    "price_usd": 129.99,
+                    "rating": 4,
+                    "rating_count": 37,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ]
+        },
+        "id": 0,
+        "name": "Server - Standard",
+        "total_budget": 2000,
+        "total_tdp": 304,
+        "type": "Standard"
+    },
+    {
+        "budget": {
+            "Case": 3,
+            "CaseFan": 3,
+            "Cpu": 6,
+            "CpuCooler": 3,
+            "InternalStorage": 4,
+            "Memory": 4,
+            "Motherboard": 5,
+            "OpticalDrive": 2,
+            "PowerSupply": 12,
+            "ThermalPaste": 1,
+            "VideoCard": 57
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "4 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital Blue",
+                    "price_/_gb": "$0.020",
+                    "price_usd": 79.99,
+                    "rating": 4,
+                    "rating_count": 40,
+                    "type": "5400RPM"
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Titanium",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "SeaSonic PRIME Ultra Titanium",
+                    "price_usd": 308.98,
+                    "rating": 5,
+                    "rating_count": 5,
+                    "wattage": "1000 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1882 MHz",
+                    "chipset": "GeForce RTX 3060",
+                    "color": "Black",
+                    "core_clock": "1320 MHz",
+                    "length": "201.8 mm",
+                    "memory": "12 GB",
+                    "name": "EVGA XC GAMING",
+                    "price_usd": 899.99,
+                    "rating": 4,
+                    "rating_count": 19
+                },
+                {
+                    "boost_clock": "1882 MHz",
+                    "chipset": "GeForce RTX 3060",
+                    "color": "Black",
+                    "core_clock": "1320 MHz",
+                    "length": "201.8 mm",
+                    "memory": "12 GB",
+                    "name": "EVGA XC GAMING",
+                    "price_usd": 899.99,
+                    "rating": 4,
+                    "rating_count": 19
+                }
+            ]
+        },
+        "id": 1,
+        "name": "Server - AI",
+        "total_budget": 5600,
+        "total_tdp": 775,
+        "type": "Artificial_Intelligence"
+    },
+    {
+        "budget": {
+            "Case": 3,
+            "CaseFan": 3,
+            "Cpu": 15,
+            "CpuCooler": 4,
+            "ExternalHardDrive": 9,
+            "Headphones": 4,
+            "InternalStorage": 7,
+            "Keyboard": 2,
+            "Memory": 9,
+            "Monitor": 4,
+            "Motherboard": 7,
+            "Mouse": 2,
+            "OpticalDrive": 2,
+            "Os": 5,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 16,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "8000 GB",
+                    "color": "Black",
+                    "interface": "USB 3.0",
+                    "name": "Western Digital ELEMENTS",
+                    "price_/_gb": "$0.031",
+                    "price_usd": 249.99,
+                    "rating": 4,
+                    "rating_count": 6,
+                    "type": "Desktop"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "AOC 27G2",
+                    "panel_type": "IPS",
+                    "price_usd": 229.99,
+                    "rating": 5,
+                    "rating_count": 5,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": null,
+                    "screen_size": "27.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "192 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 7 Professional (32/64-bit)",
+                    "price_usd": 229,
+                    "rating": 5,
+                    "rating_count": 18,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1882 MHz",
+                    "chipset": "GeForce RTX 3060",
+                    "color": "Black",
+                    "core_clock": "1320 MHz",
+                    "length": "201.8 mm",
+                    "memory": "12 GB",
+                    "name": "EVGA XC GAMING",
+                    "price_usd": 899.99,
+                    "rating": 4,
+                    "rating_count": 19
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 2,
+        "name": "Full Setup -  Productivity Workstation",
+        "total_budget": 8000,
+        "total_tdp": 607,
+        "type": "Workstation"
+    },
+    {
+        "budget": {
+            "Case": 5,
+            "CaseFan": 7,
+            "Cpu": 16,
+            "CpuCooler": 3,
+            "ExternalHardDrive": 4,
+            "Headphones": 4,
+            "InternalStorage": 10,
+            "Keyboard": 3,
+            "Memory": 8,
+            "Monitor": 7,
+            "Motherboard": 8,
+            "Mouse": 2,
+            "OpticalDrive": 3,
+            "Os": 3,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 9,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "1000 GB",
+                    "color": null,
+                    "interface": "USB Type-C",
+                    "name": "Samsung T5",
+                    "price_/_gb": "$0.120",
+                    "price_usd": 119.99,
+                    "rating": 4,
+                    "rating_count": 5,
+                    "type": "Portable"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1455 MHz",
+                    "chipset": "GeForce GTX 1050 Ti",
+                    "color": "Black / Orange",
+                    "core_clock": "1341 MHz",
+                    "length": "191 mm",
+                    "memory": "4 GB",
+                    "name": "Gigabyte GV-N105TOC-4GD",
+                    "price_usd": 455,
+                    "rating": 4,
+                    "rating_count": 19
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNA1100-100ENS",
+                    "price_usd": 59.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 6
+                }
+            ]
+        },
+        "id": 3,
+        "name": "Full Setup -  Productivity Office",
+        "total_budget": 6000,
+        "total_tdp": 536,
+        "type": "Office"
+    },
+    {
+        "budget": {
+            "Case": 5,
+            "CaseFan": 7,
+            "Cpu": 12,
+            "CpuCooler": 3,
+            "Headphones": 4,
+            "InternalStorage": 5,
+            "Keyboard": 3,
+            "Memory": 9,
+            "Monitor": 10,
+            "Motherboard": 6,
+            "Mouse": 4,
+            "Os": 2,
+            "PowerSupply": 6,
+            "ThermalPaste": 1,
+            "VideoCard": 21,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1755 MHz",
+                    "chipset": "GeForce RTX 3070",
+                    "color": "Black / Silver",
+                    "core_clock": "1500 MHz",
+                    "length": "305 mm",
+                    "memory": "8 GB",
+                    "name": "MSI VENTUS 3X OC",
+                    "price_usd": 1139.99,
+                    "rating": 4,
+                    "rating_count": 21
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 4,
+        "name": "Full Setup -  Gaming",
+        "total_budget": 8670,
+        "total_tdp": 560,
+        "type": "Gaming"
+    },
+    {
+        "budget": {
+            "Case": 4,
+            "CaseFan": 4,
+            "Cpu": 15,
+            "CpuCooler": 4,
+            "Headphones": 4,
+            "InternalStorage": 5,
+            "Keyboard": 3,
+            "Memory": 10,
+            "Monitor": 10,
+            "Motherboard": 5,
+            "Mouse": 4,
+            "Os": 2,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 15,
+            "Webcam": 7,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                },
+                {
+                    "airflow": "41.67 - 55.44 CFM",
+                    "color": "Brown",
+                    "name": "Noctua A12x15 PWM",
+                    "noise_level": "16.8 - 23.9 dB",
+                    "price_usd": 37.67,
+                    "pwm": true,
+                    "rating": 5,
+                    "rating_count": 46,
+                    "rpm": "450 - 1850 RPM",
+                    "size": "120 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1882 MHz",
+                    "chipset": "GeForce RTX 3060",
+                    "color": "Black",
+                    "core_clock": "1320 MHz",
+                    "length": "201.8 mm",
+                    "memory": "12 GB",
+                    "name": "EVGA XC GAMING",
+                    "price_usd": 899.99,
+                    "rating": 4,
+                    "rating_count": 19
+                }
+            ],
+            "Webcam": [
+                {
+                    "connection": "USB 3.2 Gen 1 Type-A",
+                    "focus_type": "Auto",
+                    "fov_angle": "82°",
+                    "name": "Logitech BRIO Ultra HD Pro",
+                    "operating_system": "Windows, OS X, ChromeOS",
+                    "price_usd": 163.34,
+                    "rating": 4,
+                    "rating_count": 9,
+                    "resolution": "4K, 1080p, 720p"
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 5,
+        "name": "Full Setup -  Streaming",
+        "total_budget": 6570,
+        "total_tdp": 529,
+        "type": "Streaming"
+    },
+    {
+        "budget": {
+            "Case": 4,
+            "CaseFan": 3,
+            "Cpu": 13,
+            "CpuCooler": 4,
+            "FanController": 2,
+            "Headphones": 5,
+            "InternalStorage": 5,
+            "Keyboard": 3,
+            "Memory": 8,
+            "Monitor": 14,
+            "Motherboard": 5,
+            "Mouse": 3,
+            "Os": 4,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 16,
+            "Webcam": 3,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "FanController": [
+                {
+                    "channel_wattage": "8 W",
+                    "channels": "4",
+                    "color": null,
+                    "form_factor": "3.5\"",
+                    "name": "Kingwin FPX-001",
+                    "price_usd": 15.22,
+                    "pwm_(4-pin)": false,
+                    "rating": 3,
+                    "rating_count": 6
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                },
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "32:9",
+                    "name": "Samsung C49RG9",
+                    "panel_type": "VA",
+                    "price_usd": 1199.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "refresh_rate": "120 Hz",
+                    "resolution": "5120 x 1440",
+                    "response_time_(g2g)": "4 ms",
+                    "screen_size": "49.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "192 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 7 Professional (32/64-bit)",
+                    "price_usd": 229,
+                    "rating": 5,
+                    "rating_count": 18,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": null,
+                    "chipset": "GeForce RTX 3080",
+                    "color": "Black",
+                    "core_clock": "1440 MHz",
+                    "length": "323 mm",
+                    "memory": "10 GB",
+                    "name": "MSI GAMING X TRIO",
+                    "price_usd": 1413.99,
+                    "rating": 4,
+                    "rating_count": 17
+                }
+            ],
+            "Webcam": [
+                {
+                    "connection": "USB 3.2 Gen 1 Type-A",
+                    "focus_type": "Auto",
+                    "fov_angle": "82°",
+                    "name": "Logitech BRIO Ultra HD Pro",
+                    "operating_system": "Windows, OS X, ChromeOS",
+                    "price_usd": 163.34,
+                    "rating": 4,
+                    "rating_count": 9,
+                    "resolution": "4K, 1080p, 720p"
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 6,
+        "name": "Full Setup -  Gaming & Streaming",
+        "total_budget": 9000,
+        "total_tdp": 562,
+        "type": "Gaming_Streaming"
+    },
+    {
+        "budget": {
+            "Case": 5,
+            "CaseFan": 7,
+            "Cpu": 14,
+            "CpuCooler": 3,
+            "ExternalHardDrive": 2,
+            "Headphones": 4,
+            "InternalStorage": 7.5,
+            "Keyboard": 3,
+            "Memory": 8.5,
+            "Monitor": 8.5,
+            "Motherboard": 7,
+            "Mouse": 3,
+            "OpticalDrive": 1.5,
+            "Os": 2.5,
+            "PowerSupply": 5.5,
+            "ThermalPaste": 1,
+            "VideoCard": 15,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "1000 GB",
+                    "color": null,
+                    "interface": "USB Type-C",
+                    "name": "Samsung T5",
+                    "price_/_gb": "$0.120",
+                    "price_usd": 119.99,
+                    "rating": 4,
+                    "rating_count": 5,
+                    "type": "Portable"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "2 TB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Sabrent Rocket Q",
+                    "price_/_gb": "$0.125",
+                    "price_usd": 249.98,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1882 MHz",
+                    "chipset": "GeForce RTX 3060",
+                    "color": "Black",
+                    "core_clock": "1320 MHz",
+                    "length": "201.8 mm",
+                    "memory": "12 GB",
+                    "name": "EVGA XC GAMING",
+                    "price_usd": 899.99,
+                    "rating": 4,
+                    "rating_count": 19
+                }
+            ],
+            "Webcam": [
+                {
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 7,
+        "name": "Mixed Full Setup -  Gaming Office",
+        "total_budget": 7000,
+        "total_tdp": 557,
+        "type": "Mixed"
+    },
+    {
+        "budget": {
+            "Case": 4,
+            "CaseFan": 5,
+            "Cpu": 13.5,
+            "CpuCooler": 3.5,
+            "ExternalHardDrive": 4.5,
+            "Headphones": 4,
+            "InternalStorage": 6,
+            "Keyboard": 2.5,
+            "Memory": 9,
+            "Monitor": 7,
+            "Motherboard": 6.5,
+            "Mouse": 3,
+            "OpticalDrive": 1,
+            "Os": 3.5,
+            "PowerSupply": 5.5,
+            "ThermalPaste": 1,
+            "VideoCard": 18.5,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "8000 GB",
+                    "color": "Black",
+                    "interface": "USB 3.0",
+                    "name": "Western Digital ELEMENTS",
+                    "price_/_gb": "$0.031",
+                    "price_usd": 249.99,
+                    "rating": 4,
+                    "rating_count": 6,
+                    "type": "Desktop"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "500 GB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Western Digital Black SN850",
+                    "price_/_gb": "$0.240",
+                    "price_usd": 119.99,
+                    "rating": 5,
+                    "rating_count": 10,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1755 MHz",
+                    "chipset": "GeForce RTX 3070",
+                    "color": "Black / Silver",
+                    "core_clock": "1500 MHz",
+                    "length": "305 mm",
+                    "memory": "8 GB",
+                    "name": "MSI VENTUS 3X OC",
+                    "price_usd": 1139.99,
+                    "rating": 4,
+                    "rating_count": 21
+                }
+            ],
+            "Webcam": [
+                {
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 8,
+        "name": "Mixed Full Setup -  Gaming Workstation",
+        "total_budget": 6500,
+        "total_tdp": 557,
+        "type": "Mixed"
+    },
+    {
+        "budget": {
+            "Case": 4.5,
+            "CaseFan": 5.5,
+            "Cpu": 15.5,
+            "CpuCooler": 3.5,
+            "ExternalHardDrive": 2,
+            "Headphones": 4,
+            "InternalStorage": 7.5,
+            "Keyboard": 3,
+            "Memory": 9,
+            "Monitor": 8.5,
+            "Motherboard": 6.5,
+            "Mouse": 3,
+            "OpticalDrive": 1.5,
+            "Os": 2.5,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 12,
+            "Webcam": 3.5,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "1000 GB",
+                    "color": null,
+                    "interface": "USB Type-C",
+                    "name": "Samsung T5",
+                    "price_/_gb": "$0.120",
+                    "price_usd": 119.99,
+                    "rating": 4,
+                    "rating_count": 5,
+                    "type": "Portable"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "2 TB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Sabrent Rocket Q",
+                    "price_/_gb": "$0.125",
+                    "price_usd": 249.98,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "128 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 10 Home (32/64-bit)",
+                    "price_usd": 129.94,
+                    "rating": 4,
+                    "rating_count": 12,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1785 MHz",
+                    "chipset": "GeForce GTX 1660 SUPER",
+                    "color": "Black",
+                    "core_clock": "1530 MHz",
+                    "length": "173.4 mm",
+                    "memory": "6 GB",
+                    "name": "Zotac GAMING Twin Fan",
+                    "price_usd": 584.82,
+                    "rating": 4,
+                    "rating_count": 10
+                }
+            ],
+            "Webcam": [
+                {
+                    "connection": "USB 3.2 Gen 1 Type-A",
+                    "focus_type": "Auto",
+                    "fov_angle": "82°",
+                    "name": "Logitech BRIO Ultra HD Pro",
+                    "operating_system": "Windows, OS X, ChromeOS",
+                    "price_usd": 163.34,
+                    "rating": 4,
+                    "rating_count": 9,
+                    "resolution": "4K, 1080p, 720p"
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 9,
+        "name": "Mixed Full Setup -  Streaming Office",
+        "total_budget": 6500,
+        "total_tdp": 557,
+        "type": "Mixed"
+    },
+    {
+        "budget": {
+            "Case": 3.5,
+            "CaseFan": 3.5,
+            "Cpu": 15,
+            "CpuCooler": 4,
+            "ExternalHardDrive": 4.5,
+            "Headphones": 4,
+            "InternalStorage": 6,
+            "Keyboard": 2.5,
+            "Memory": 9.5,
+            "Monitor": 7,
+            "Motherboard": 6,
+            "Mouse": 3,
+            "OpticalDrive": 1,
+            "Os": 3.5,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 15.5,
+            "Webcam": 3.5,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "8000 GB",
+                    "color": "Black",
+                    "interface": "USB 3.0",
+                    "name": "Western Digital ELEMENTS",
+                    "price_/_gb": "$0.031",
+                    "price_usd": 249.99,
+                    "rating": 4,
+                    "rating_count": 6,
+                    "type": "Desktop"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "2 TB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Sabrent Rocket Q",
+                    "price_/_gb": "$0.125",
+                    "price_usd": 249.98,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "192 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 7 Professional (32/64-bit)",
+                    "price_usd": 229,
+                    "rating": 5,
+                    "rating_count": 18,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1755 MHz",
+                    "chipset": "GeForce RTX 3070",
+                    "color": "Black / Silver",
+                    "core_clock": "1500 MHz",
+                    "length": "305 mm",
+                    "memory": "8 GB",
+                    "name": "MSI VENTUS 3X OC",
+                    "price_usd": 1139.99,
+                    "rating": 4,
+                    "rating_count": 21
+                }
+            ],
+            "Webcam": [
+                {
+                    "connection": "USB 3.2 Gen 1 Type-A",
+                    "focus_type": "Auto",
+                    "fov_angle": "82°",
+                    "name": "Logitech BRIO Ultra HD Pro",
+                    "operating_system": "Windows, OS X, ChromeOS",
+                    "price_usd": 163.34,
+                    "rating": 4,
+                    "rating_count": 9,
+                    "resolution": "4K, 1080p, 720p"
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 10,
+        "name": "Mixed Full Setup -  Streaming Workstation",
+        "total_budget": 10500,
+        "total_tdp": 557,
+        "type": "Mixed"
+    },
+    {
+        "budget": {
+            "Case": 4,
+            "CaseFan": 5,
+            "Cpu": 15.5,
+            "CpuCooler": 3.5,
+            "ExternalHardDrive": 6.5,
+            "Headphones": 4,
+            "InternalStorage": 8.5,
+            "Keyboard": 2.5,
+            "Memory": 8.5,
+            "Monitor": 5.5,
+            "Motherboard": 7.5,
+            "Mouse": 2,
+            "OpticalDrive": 2.5,
+            "Os": 4,
+            "PowerSupply": 5,
+            "ThermalPaste": 1,
+            "VideoCard": 12.5,
+            "WirelessNetworkCard": 2
+        },
+        "components": {
+            "Case": [
+                {
+                    "color": "Black",
+                    "external_5.25\"_bays": "0",
+                    "internal_3.5\"_bays": "6",
+                    "name": "Fractal Design Meshify 2",
+                    "power_supply": null,
+                    "price_usd": 152.78,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "side_panel_window": "Tinted Tempered Glass",
+                    "type": "ATX Mid Tower"
+                }
+            ],
+            "CaseFan": [
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                },
+                {
+                    "airflow": "30.39 - 91.19 CFM",
+                    "color": "Black",
+                    "name": "NZXT AER RGB 2",
+                    "noise_level": "22 - 33 dB",
+                    "price_usd": 29.85,
+                    "pwm": true,
+                    "rating": 4,
+                    "rating_count": 29,
+                    "rpm": "500 - 1500 RPM",
+                    "size": "140 mm"
+                }
+            ],
+            "Cpu": [
+                {
+                    "boost_clock": "4.9 GHz",
+                    "core_clock": "3.6 GHz",
+                    "core_count": "8",
+                    "integrated_graphics": null,
+                    "name": "Intel Core i7-9700KF",
+                    "price_usd": 293.01,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "smt": false,
+                    "tdp": "95 W"
+                }
+            ],
+            "CpuCooler": [
+                {
+                    "color": "Black",
+                    "fan_rpm": "700 - 1800 RPM",
+                    "name": "ID-COOLING SE-224-XT",
+                    "noise_level": "15.2 - 32.5 dB",
+                    "price_usd": 29.99,
+                    "radiator_size": null,
+                    "rating": 5,
+                    "rating_count": 9
+                }
+            ],
+            "ExternalHardDrive": [
+                {
+                    "capacity": "8000 GB",
+                    "color": "Black",
+                    "interface": "USB 3.0",
+                    "name": "Western Digital ELEMENTS",
+                    "price_/_gb": "$0.031",
+                    "price_usd": 249.99,
+                    "rating": 4,
+                    "rating_count": 6,
+                    "type": "Desktop"
+                }
+            ],
+            "Headphones": [
+                {
+                    "color": "Black / White",
+                    "enclosure_type": "Open",
+                    "frequency_response": "15 Hz - 28 kHz",
+                    "microphone": true,
+                    "name": "Sennheiser GAME ONE Black",
+                    "price_usd": 134,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "Circumaural",
+                    "wireless": false
+                }
+            ],
+            "InternalStorage": [
+                {
+                    "cache": null,
+                    "capacity": "2 TB",
+                    "form_factor": "M.2-2280",
+                    "interface": "M.2 (M)",
+                    "name": "Sabrent Rocket Q",
+                    "price_/_gb": "$0.125",
+                    "price_usd": 249.98,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "type": "SSD"
+                },
+                {
+                    "cache": "64 MB",
+                    "capacity": "2 TB",
+                    "form_factor": "3.5\"",
+                    "interface": "SATA 6 Gb/s",
+                    "name": "Western Digital BLACK SERIES",
+                    "price_/_gb": "$0.052",
+                    "price_usd": 104.99,
+                    "rating": 4,
+                    "rating_count": 163,
+                    "type": "7200RPM"
+                }
+            ],
+            "Keyboard": [
+                {
+                    "backlit": "RGB",
+                    "color": "Black",
+                    "connection_type": "Wired",
+                    "name": "Redragon K551-RGB VARA",
+                    "price_usd": 47.99,
+                    "rating": 5,
+                    "rating_count": 7,
+                    "style": "Standard",
+                    "switch_type": "Outemu Blue",
+                    "tenkeyless": false
+                }
+            ],
+            "Memory": [
+                {
+                    "cas_latency": "9",
+                    "color": "Black / Yellow",
+                    "first_word_latency": "11.25 ns",
+                    "modules": "2 x 8GB",
+                    "name": "Corsair Vengeance 16 GB",
+                    "price_/_gb": "$5.437",
+                    "price_usd": 86.99,
+                    "rating": 4,
+                    "rating_count": 91,
+                    "speed": "DDR3-1600"
+                }
+            ],
+            "Monitor": [
+                {
+                    "aspect_ratio": "16:9",
+                    "name": "VIOTEK GFV22CB",
+                    "panel_type": "VA",
+                    "price_usd": 350,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "refresh_rate": "144 Hz",
+                    "resolution": "1920 x 1080",
+                    "response_time_(g2g)": "5 ms",
+                    "screen_size": "22.0\""
+                }
+            ],
+            "Motherboard": [
+                {
+                    "color": "Black / Silver",
+                    "form_factor": "ATX",
+                    "memory_max": "128 GB",
+                    "memory_slots": "4",
+                    "name": "Gigabyte Z390 AORUS PRO WIFI",
+                    "price_usd": 207.24,
+                    "rating": 4,
+                    "rating_count": 48,
+                    "socket_/_cpu": "LGA1151"
+                }
+            ],
+            "Mouse": [
+                {
+                    "color": "White",
+                    "connection_type": "Wired",
+                    "hand_orientation": "Right",
+                    "maximum_dpi": "12000",
+                    "name": "Glorious PC Gaming Race MODEL D",
+                    "price_usd": 64.98,
+                    "rating": 5,
+                    "rating_count": 6,
+                    "tracking_method": "Optical"
+                }
+            ],
+            "OpticalDrive": [
+                {
+                    "bd": null,
+                    "bd_write": null,
+                    "cd": "48",
+                    "cd_write": "48/32",
+                    "dvd": "16",
+                    "dvd_write": "24/8/-/24/6/-/-",
+                    "name": "Lite-On IHAS324-98",
+                    "price_usd": 59.95,
+                    "rating": 4,
+                    "rating_count": 12
+                }
+            ],
+            "Os": [
+                {
+                    "maximum_supported_memory": "192 GB",
+                    "mode": "32/64-bit",
+                    "name": "Microsoft Windows 7 Professional (32/64-bit)",
+                    "price_usd": 229,
+                    "rating": 5,
+                    "rating_count": 18,
+                    "type": "Windows"
+                }
+            ],
+            "PowerSupply": [
+                {
+                    "color": null,
+                    "efficiency_rating": "80+ Gold",
+                    "form_factor": "ATX",
+                    "modular": "Full",
+                    "name": "be quiet! Straight Power 11",
+                    "price_usd": 139.9,
+                    "rating": 5,
+                    "rating_count": 9,
+                    "wattage": "750 W"
+                }
+            ],
+            "ThermalPaste": [
+                {
+                    "amount": "0.15 g",
+                    "name": "Coollaboratory Liquid Ultra",
+                    "price_usd": 11.33,
+                    "rating": 5,
+                    "rating_count": 8
+                }
+            ],
+            "VideoCard": [
+                {
+                    "boost_clock": "1755 MHz",
+                    "chipset": "GeForce RTX 3070",
+                    "color": "Black / Silver",
+                    "core_clock": "1500 MHz",
+                    "length": "305 mm",
+                    "memory": "8 GB",
+                    "name": "MSI VENTUS 3X OC",
+                    "price_usd": 1139.99,
+                    "rating": 4,
+                    "rating_count": 21
+                }
+            ],
+            "Webcam": [
+                {
+                }
+            ],
+            "WirelessNetworkCard": [
+                {
+                    "color": null,
+                    "interface": "USB 2.0",
+                    "name": "Netgear WNDA4100-100NAS",
+                    "price_usd": 129.99,
+                    "protocol": "Wi-Fi 4",
+                    "rating": 4,
+                    "rating_count": 7
+                }
+            ]
+        },
+        "id": 11,
+        "name": "Mixed Full Setup -  Workstation Office",
+        "total_budget": 12000,
+        "total_tdp": 557,
+        "type": "Mixed"
+    }
+]
